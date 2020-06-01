@@ -1,0 +1,104 @@
+/* Provide sufficient contrast against white background */
+
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+table {
+    width: 100%;
+    background-color: gainsboro;
+}
+
+th {
+    background-color: darkcyan;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.cell {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    font-size:large;
+}
+
+a {
+    color: black;
+}
+
+button {
+    text-align: center;
+    width: 80px;
+    background-color:gainsboro;
+}
+
+input {
+    width: 300px;
+}
+
+.submit {
+    text-align: center;
+    width: 80px;
+    outline-style:solid;
+    outline-width:thin;
+
+}
+
+.curr {
+    font-weight: 800;
+
+}
+
+.highlight{
+    background-color:lightblue;
+    
+}
+
+.eventt {
+    text-align: center;
+    width: 30%;
+    font-size: large;
+}
+
+.evente {
+    text-align: center;
+    width:70%;
+}
+
+.desc {
+    min-width: 300px;
+    width: auto;
+    text-align: center;
+    text-wrap: normal;
+    font-size: large;
+}
+.ctrl{
+    text-align:left;
+    
+}
+.ctrr{
+    text-align:right;
+}
+.container{
+    background-color:gainsboro;
+    width:50%;
+}
+
+.dayt {
+    text-align: center;
+    width: 100px;
+    font-size: large;
+}
+
+.header {
+    text-align: center;
+    font-size:x-large;
+}
